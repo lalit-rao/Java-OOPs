@@ -10,8 +10,10 @@ public class pattern5 {
                 int EN = 2 * j;
                 System.out.print(EN + " ");
             }
+
             System.out.println();
         }
+
 
         scanner.close();
     }
