@@ -12,6 +12,10 @@ public class ArrayLists {
         list.add(3);
         System.out.println(list);
 
+
+
+
+
         //get elements
         int element = list.get(0);
         System.out.println(element);
@@ -31,6 +35,9 @@ public class ArrayLists {
         //size
         int size = list.size();
         System.out.println(size);
+
+
+
 
         for (int i = 0; i < size; i++) {
             System.out.print(list.get(i));
